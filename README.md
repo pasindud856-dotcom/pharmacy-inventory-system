@@ -113,7 +113,3 @@ src/
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for any features or bug fixes.
-
----
-
-**Next Step**: Would you like me to help you write a **`package.json`** file or a **CSS** file to make this README look even better on your GitHub profile?
